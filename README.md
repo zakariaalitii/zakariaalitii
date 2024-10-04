@@ -18,8 +18,8 @@ I thrive on working with innovative technologies to create scalable solutions. W
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/zakaria-aliti-b54287210/))
-- [Twitter]([https://twitter.com/your-handle](https://x.com/aliti_zakaria))
+- [LinkedIn]((https://www.linkedin.com/in/zakaria-aliti-b54287210/))
+- [Twitter]((https://x.com/aliti_zakaria))
 - [Email](zakariaaliti00@gmail.com)
 
 Let’s collaborate and bring ideas to life!
