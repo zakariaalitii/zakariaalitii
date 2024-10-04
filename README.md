@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**zakariaalitii/zakariaalitii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Zakaria Al Aiti, an aspiring **Artificial Intelligence & Data Science** professional with a passion for solving complex problems through cutting-edge technologies.
 
-Here are some ideas to get you started:
+- 🌍 Based in **Morocco**
+- 💡 Focused on **Artificial Intelligence & Data Science**
+- 🎓 Currently studying **AI & Data Sciences**
+- 🤖 Enthusiast in **Machine Learning**, **Deep Learning**, **Federated Learning**, **Data Engineering**, and **Cloud Computing**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive on working with innovative technologies to create scalable solutions. Whether you're looking to collaborate on a project or simply discuss the latest trends in AI, I'm always excited to connect!
+
+### 🌟 What I Can Help You With:
+- Building AI/ML models
+- Federated learning architectures
+- Data engineering pipelines
+- Cloud-based deployments
+
+---
+
+### 📫 How to reach me:
+- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/zakaria-aliti-b54287210/))
+- [Twitter]([https://twitter.com/your-handle](https://x.com/aliti_zakaria))
+- [Email](zakariaaliti00@gmail.com)
+
+Let’s collaborate and bring ideas to life!
