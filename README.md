@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m Zakaria Al Aiti, an aspiring **Artificial Intelligence & Data Science** professional with a passion for solving complex problems through cutting-edge technologies.
+I’m Zakaria Aliti, an aspiring **Artificial Intelligence & Data Science** professional with a passion for solving complex problems through cutting-edge technologies.
 
 - 🌍 Based in **Morocco**
 - 💡 Focused on **Artificial Intelligence & Data Science**
