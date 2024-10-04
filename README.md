@@ -5,7 +5,7 @@ I’m Zakaria Al Aiti, an aspiring **Artificial Intelligence & Data Science** pr
 - 🌍 Based in **Morocco**
 - 💡 Focused on **Artificial Intelligence & Data Science**
 - 🎓 Currently studying **AI & Data Sciences**
-- 🤖 Enthusiast in **Machine Learning**, **Deep Learning**, **Federated Learning**, **Data Engineering**, and **Cloud Computing**
+- 🤖 Enthusiast in **Machine Learning**, **Deep Learning**, **Federated Learning**, **Data Engineering**, **Blockchain** and **Cloud Computing**
 
 I thrive on working with innovative technologies to create scalable solutions. Whether you're looking to collaborate on a project or simply discuss the latest trends in AI, I'm always excited to connect!
 
