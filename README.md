@@ -17,8 +17,8 @@ I'm an **Artificial Intelligence & Data Science** professional passionate about 
 - 🌍 **Location:** Morocco 🇲🇦
 - 🎓 **Education:** AI & Data Sciences
 - 💼 **Focus:** Artificial Intelligence & Data Engineering
-- 🔬 **Research Interests:** Federated Learning, MLOps
-- 🌱 **Currently Learning:** Advanced Deep Learning Architectures
+- 🔬 **Research Interests:** Federated Learning, MLOps, AI Agents
+- 🌱 **Currently Learning:** Security AI Agents 
 - 💬 **Ask me about:** ML, AI, Data Engineering, Cloud Computing
 - ⚡ **Fun fact:** I love turning data into actionable insights!
 
